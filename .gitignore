@@ -1,0 +1,15 @@
+# macOS and temporary office files
+.DS_Store
+~$*
+
+# Private application materials and unrelated coursework
+*.docx
+*.zip
+*.mat
+*.m
+frequency-masking-lab/
+outer-ear-lab/
+writeup_outputs_*/
+convolution-studio.*
+distortion-studio.*
+PROJECT2_README.md
